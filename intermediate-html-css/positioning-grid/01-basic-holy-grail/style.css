@@ -51,6 +51,7 @@ html {
   display: inline-grid;
   grid-template-columns: repeat(6,1fr);
   grid-template-rows: 1fr 1fr 2fr 2fr 2fr 1fr;
+  gap: 10px;
 }
 .header{
   grid-column: 1/7;
